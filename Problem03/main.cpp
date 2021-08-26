@@ -1,6 +1,3 @@
-// Problem3.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
-
 #include <iostream>
 using namespace std;
 
@@ -8,8 +5,8 @@ int main()
 {
     cout << "Please enter a number: ";
     double x, y;
-    cin >> x;
-    y = 2 * x;
+    cin >> x; //the input is plugging in the value it got into the double x that was previously defined
+    y = 2 * x; //x is being multiplied by 2
     cout << "The number " << y << " is double your input number " << x;
     return 0;
 }
