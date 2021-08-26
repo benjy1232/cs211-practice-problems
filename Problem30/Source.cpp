@@ -10,7 +10,6 @@ int main(void) {
 	for (i = 0; x >= 1;i++) {
 		x = x / 10;
 	}
-	cout << i;
 	for (int j = 0; j<i; j++)
 	{
 		x = x * 10;
