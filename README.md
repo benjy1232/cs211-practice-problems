@@ -8,6 +8,7 @@ The PDF of all the problems is also included
 If you need to contact me please use Discord or Email
 
 - Discord: Spitalia VI#4400
-- Email: b.serrano8970@outlook.com
+- Personal Email: b.serrano8970@outlook.com
+- School Email: basesrrano@shockers.wichita.edu (This is the email I will be most likely to check)
 
 As of right now up to problem17 has comments
