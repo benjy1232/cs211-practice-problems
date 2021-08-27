@@ -9,3 +9,5 @@ If you need to contact me please use Discord or Email
 
 - Discord: Spitalia VI#4400
 - Email: b.serrano8970@outlook.com
+
+As of right now up to problem17 has comments
