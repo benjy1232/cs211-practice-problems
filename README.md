@@ -12,3 +12,5 @@ If you need to contact me please use Discord or Email
 - School Email: basesrrano@shockers.wichita.edu (This is the email I will be most likely to check)
 
 As of right now up to problem17 has comments
+
+# ALL OF THESE WERE COMPILED USING GCC AND NOT VISUAL STUDIO SO THEY MAY NOT WORK ON WINDOWS
