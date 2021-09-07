@@ -14,3 +14,5 @@ If you need to contact me please use Discord or Email
 As of right now up to problem17 has comments
 
 # ALL OF THESE WERE COMPILED USING GCC AND NOT VISUAL STUDIO SO THEY MAY NOT WORK ON WINDOWS
+
+# AM CURRENTLY WORKING ON WINDOWS BUILDS
