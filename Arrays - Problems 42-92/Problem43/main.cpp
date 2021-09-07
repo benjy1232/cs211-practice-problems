@@ -1,11 +1,16 @@
 #include<iostream>
 using namespace std;
+const int SIZE=999;
 
 int main(void){
 	int x;
 	cout << "Please enter array size: ";
 	cin >> x;
-	int arr[x];
+	if(x>SIZE){
+		cout << "Too large of an array";
+		return 0;
+	}
+	int arr[SIZE];
 	int commonArr[x];
 	for(int i=0; i<x; i++){
 		cout << "Please enter element " << i << ": ";

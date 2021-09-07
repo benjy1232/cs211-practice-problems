@@ -1,10 +1,15 @@
 #include<iostream>
 using namespace std;
+const int SIZE=999;
 
 int main(void){
 	int x;
 	cout << "Please enter array size: ";
 	cin >> x;
+	if(x>SIZE){
+		cout << "Too large of an array";
+		return 0;
+	}
 	int arr[x];
 	int check[6] {1,2,3,4,5,6};
 	int missing[6] {0,0,0,0,0,0};

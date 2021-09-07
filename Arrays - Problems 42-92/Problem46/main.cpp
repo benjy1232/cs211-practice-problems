@@ -1,10 +1,15 @@
 #include<iostream>
 using namespace std;
+const int SIZE=999;
 
 int main(void){
 	int x, i=0;
 	cout << "Please enter integer: ";
 	cin >> x;
+	if(x>SIZE){
+		cout << "Too large of an array";
+		return 0;
+	}
 	double doubx=x;
 	for(i=0; doubx>1; i++){
 		doubx=doubx/10;
