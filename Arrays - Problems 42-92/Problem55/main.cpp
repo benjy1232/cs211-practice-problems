@@ -34,7 +34,6 @@ int main(void){
     cout << newArr[pushback] << endl;
     while(k<=actSize){
         newArr[k]=arr[k-1];
-        cout << newArr[k] << endl;
         k++;
     }
     for(int l=0; l<=actSize; l++){
